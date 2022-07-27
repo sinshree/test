@@ -1,4 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-c8ce6f198781391f82a66a339c047a80834ef7ee refs/remotes/origin/Feature/FCS-506
-6650b40912f6661342ec108b502ca9c6f6bd2ce3 refs/remotes/origin/dependabot/maven/junit-junit-4.13.1
-807f3cbe9a5a86ca78905c4f5e565f03949365ea refs/remotes/origin/master
